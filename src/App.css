@@ -1,0 +1,14 @@
+.cardsflex {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-top: 10px;
+
+
+}
+
+.buttomadd {
+
+    display: flex;
+    justify-content: end;
+}
